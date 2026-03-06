@@ -122,4 +122,4 @@ This software is intended for use by qualified medical professionals. All diagno
 
 ---
 
-**Last Updated**: January 2024 • **Version**: 1.0 • **Phase**: 1 Complete
+**Last Updated**: March 2026 • **Version**: 1.0 • **Phase**: 1 Complete
