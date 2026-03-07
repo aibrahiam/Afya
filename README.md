@@ -67,7 +67,7 @@ The application will be available at:
 
 ## 📋 Development Roadmap
 
-See [DEVELOPMENT_PLAN.md](DEVELOPMENT_PLAN.md) for the comprehensive 20-week development plan including:
+Development plan including:
 
 - **Phase 2** (Weeks 5-8): Enhanced case management with file uploads and real-time collaboration
 - **Phase 3** (Weeks 9-12): AI integration with medical ML models and advanced analytics  
@@ -106,7 +106,7 @@ See [DEVELOPMENT_PLAN.md](DEVELOPMENT_PLAN.md) for the comprehensive 20-week dev
 
 ## 🤝 Contributing
 
-1. Review the [DEVELOPMENT_PLAN.md](DEVELOPMENT_PLAN.md) for current priorities
+1. Review the DEVELOPMENT PLAN for current priorities
 2. Check existing issues and feature requests
 3. Follow the established code style and testing patterns
 4. Submit pull requests with comprehensive testing
@@ -123,3 +123,4 @@ This software is intended for use by qualified medical professionals. All diagno
 
 
 **Last Updated**: March 2026 • **Version**: 1.0 • **Phase**: 1 Complete
+
